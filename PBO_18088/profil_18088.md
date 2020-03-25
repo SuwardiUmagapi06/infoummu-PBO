@@ -1,5 +1,5 @@
 Nama      : Suwardi Umagapi
-nmp       :18088
-info      : 3
-semester   : IV
-mk        : PBO
+Nmp       : 18088
+Info      : 3
+Semester  : IV
+MK        : PBO
